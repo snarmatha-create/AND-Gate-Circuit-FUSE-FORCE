@@ -39,4 +39,4 @@ The 9V battery supplies DC power to the circuit. Because the switches are wired 
 * Change the push-buttons to toggle switches for hands-free operation.
 * Place the board inside an enclosure to protect the exposed bottom wires.
 * Move the design to a custom printed circuit board (PCB) to eliminate messy hand-soldering.
-*
+
