@@ -1,3 +1,5 @@
+<img width="1600" height="1200" alt="Physical circuit" src="https://github.com/user-attachments/assets/284bd1be-78e1-4062-a70e-f6d74e65d08a" />
+<img width="1204" height="1600" alt="Circuit overview" src="https://github.com/user-attachments/assets/44c85755-def4-471d-b90d-69b832ebd585" />
 # AND LOGIC GATE CIRCUIT USING 9V BATTERY
 
 ## DESCRIPTION
