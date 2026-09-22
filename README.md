@@ -36,8 +36,6 @@ The 9V battery supplies DC power to the circuit. Because the switches are wired 
 
 ## PROJECT IMAGES
 
-## PROJECT IMAGES
-
 #### 1. Hardware Overview Top-Down Layout
 ![Hardware Overview](Circuit%20overview.jpeg)
 
