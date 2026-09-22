@@ -15,7 +15,9 @@ An interactive digital electronics project that implements a two-input AND logic
 ## PROBLEM STATEMENT
 In automated machinery and safety systems, machines often need to make sure multiple conditions are met at the exact same time before turning on. This circuit solves the problem of building a reliable, hardware-enforced safety switch that ensures an output device cannot turn on accidentally if only one button is pressed or bumped.
 
-## TRUTH TABLE
+## TRUTH TABLE<img width="1600" height="1200" alt="Physical circuit" src="https://github.com/user-attachments/assets/cfe6c2f0-790e-48a7-8aef-18b09be7d99b" />
+<img width="1204" height="1600" alt="Circuit overview" src="https://github.com/user-attachments/assets/0d705e6e-500a-45cf-8177-f2bd5e53dd43" />
+
 
 | Button 1 | Button 2 | LED Status |
 | :---: | :---: | :---: |
