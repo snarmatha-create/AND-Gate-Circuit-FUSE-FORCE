@@ -39,10 +39,10 @@ The 9V battery supplies DC power to the circuit. Because the switches are wired 
 ## PROJECT IMAGES
 
 #### 1. Hardware Overview Top-Down Layout
-![Hardware Overview](image_aOAtdz.png)
+![Hardware Overview](Circuit%20overview.jpeg)
 
 #### 2. Physical Circuit Test (Both Buttons Pressed)
-![Circuit Test](image_F9etiG.png)
+![Circuit Test](Physical%20circuit.jpeg)
 ## NOTES
 * Connect the LED with the correct polarity.
 * Use a resistor to limit current and prevent burning out the LED.
