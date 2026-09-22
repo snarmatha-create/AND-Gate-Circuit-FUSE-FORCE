@@ -15,6 +15,15 @@ An interactive digital electronics project that implements a two-input AND logic
 ## PROBLEM STATEMENT
 In automated machinery and safety systems, machines often need to make sure multiple conditions are met at the exact same time before turning on. This circuit solves the problem of building a reliable, hardware-enforced safety switch that ensures an output device cannot turn on accidentally if only one button is pressed or bumped.
 
+## TRUTH TABLE
+
+| Button 1 | Button 2 | LED Status |
+| :---: | :---: | :---: |
+| Released (0) | Released (0) | OFF (0) |
+| Released (0) | Pressed (1) | OFF (0) |
+| Pressed (1) | Released (0) | OFF (0) |
+| **Pressed (1)** | **Pressed (1)** | **ON (1)** |
+
 ## PROCEDURE
 1. Place the components onto the prototyping dot-board layout.
 2. Wire the two push-button switches in a series configuration.
@@ -28,10 +37,10 @@ The 9V battery supplies DC power to the circuit. Because the switches are wired 
 ## PROJECT IMAGES
 
 ### 1. Hardware Overview Top-Down Layout
-![Hardware Overview]()
+![Hardware Overview](YOUR_LINK_FOR_IMAGE_2_HERE)
 
 ### 2. Physical Circuit Test (Both Buttons Pressed)
-![Circuit Test]()
+![Circuit Test](YOUR_LINK_FOR_IMAGE_1_HERE)
 
 ## NOTES
 * Connect the LED with the correct polarity.
@@ -39,4 +48,4 @@ The 9V battery supplies DC power to the circuit. Because the switches are wired 
 * Change the push-buttons to toggle switches for hands-free operation.
 * Place the board inside an enclosure to protect the exposed bottom wires.
 * Move the design to a custom printed circuit board (PCB) to eliminate messy hand-soldering.
-
+*
